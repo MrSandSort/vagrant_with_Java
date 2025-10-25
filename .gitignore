@@ -1,0 +1,6 @@
+.vagrant/
+ansible
+*.log
+*.zip
+*.tar.gz
+*.box
